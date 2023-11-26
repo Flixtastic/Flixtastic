@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Flixtastic
-- 👀 I’m interested in Coding, Ai, Algorythms
-- 🌱 I’m currently learning Python, Java GUI, Ai
+- Hello I'm Felix Meisen
+- Currently studying Computer Science in Freiburg
+- Main working topics: Firefox Extension, Python scripts, Databases
 
 <!---
 Flixtastic/Flixtastic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
